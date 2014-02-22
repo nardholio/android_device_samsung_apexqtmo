@@ -48,8 +48,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     50bluetooth \
     60compass \
-    wifimac.sh
-
+    wifimac.sh \
+    Focal
 # Wifi firmware
 PRODUCT_PACKAGES += \
     WCNSS_cfg.dat \
